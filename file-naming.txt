@@ -1,0 +1,7 @@
+
+HTTP5110
+
+file name   --> lower case
+			-->no space b/w words
+			--> use _ or -
+			--> folder n file name same
